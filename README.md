@@ -1,1 +1,3 @@
-# Data-Visualization-Project3
+## Data Visualization - Project 3
+
+With this project I practiced using Python to solve differential equations within the context of mapping Earth's orbit. Given initial conditions for Earth's position and velocity, the equations form an intitial value problem which are solved using the odeint() method in the scipy.integrate module. The purpose of this project was to understand a mathematical problem, determine the correct means of solving using methods in Python, and then practice plotting animations using these principles.
